@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "creator-ops": {
+      "command": "node",
+      "args": ["mcp-server/dist/index.js"],
+      "description": "CreatorOps MCP server — search creators, manage lists, draft automations, and pull analytics"
+    }
+  }
+}

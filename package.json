@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "mcp": "node mcp-server/dist/index.js",
+    "mcp:build": "cd mcp-server && npx tsc",
+    "mcp:dev": "cd mcp-server && npx tsc && node dist/index.js"
   },
   "dependencies": {
     "next": "16.2.6",

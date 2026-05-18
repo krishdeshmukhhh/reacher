@@ -1,0 +1,79 @@
+{
+  "lists": {
+    "list_001": {
+      "listId": "list_001",
+      "listName": "Texas Fitness Q3",
+      "creatorCount": 4,
+      "contacted": 4,
+      "replied": 3,
+      "replyRate": 0.75,
+      "sampleRequestsSent": 4,
+      "samplesApproved": 3,
+      "sampleApprovalRate": 0.75,
+      "estimatedGmv": 18400,
+      "avgEngagementRate": 7.95,
+      "avgGmvScore": 86.25,
+      "topCreators": ["c091", "c002", "c001"],
+      "timeline": [
+        { "date": "2024-07-03", "contacted": 2, "replied": 1 },
+        { "date": "2024-07-04", "contacted": 2, "replied": 2 }
+      ]
+    },
+    "list_002": {
+      "listId": "list_002",
+      "listName": "Beauty Top 10",
+      "creatorCount": 8,
+      "contacted": 8,
+      "replied": 5,
+      "replyRate": 0.625,
+      "sampleRequestsSent": 5,
+      "samplesApproved": 3,
+      "sampleApprovalRate": 0.60,
+      "estimatedGmv": 31200,
+      "avgEngagementRate": 7.1,
+      "avgGmvScore": 82.4,
+      "topCreators": ["c071", "c015", "c078"],
+      "timeline": [
+        { "date": "2024-07-06", "contacted": 3, "replied": 2 },
+        { "date": "2024-07-07", "contacted": 3, "replied": 2 },
+        { "date": "2024-07-08", "contacted": 2, "replied": 1 }
+      ]
+    },
+    "list_003": {
+      "listId": "list_003",
+      "listName": "Wellness Micro Influencers",
+      "creatorCount": 7,
+      "contacted": 0,
+      "replied": 0,
+      "replyRate": 0,
+      "sampleRequestsSent": 0,
+      "samplesApproved": 0,
+      "sampleApprovalRate": 0,
+      "estimatedGmv": 0,
+      "avgEngagementRate": 10.1,
+      "avgGmvScore": 80.0,
+      "topCreators": [],
+      "timeline": []
+    }
+  },
+  "global": {
+    "totalCreators": 100,
+    "totalLists": 3,
+    "totalAutomations": 3,
+    "activeAutomations": 2,
+    "totalContacted": 12,
+    "totalReplied": 8,
+    "overallReplyRate": 0.667,
+    "totalEstimatedGmv": 49600,
+    "avgGmvScore": 76.8
+  },
+  "activity": [
+    { "timestamp": "2024-07-13T08:00:00Z", "type": "automation_created", "description": "Wellness Email Sequence draft created", "listName": "Wellness Micro Influencers" },
+    { "timestamp": "2024-07-10T16:00:00Z", "type": "list_updated", "description": "Beauty Top 10 list updated", "listName": "Beauty Top 10" },
+    { "timestamp": "2024-07-08T14:22:00Z", "type": "reply_received", "description": "3 creators replied in Texas Fitness Q3", "listName": "Texas Fitness Q3" },
+    { "timestamp": "2024-07-06T09:00:00Z", "type": "automation_launched", "description": "Beauty Launch DM Campaign activated", "listName": "Beauty Top 10" },
+    { "timestamp": "2024-07-05T09:00:00Z", "type": "list_created", "description": "Beauty Top 10 list created", "listName": "Beauty Top 10" },
+    { "timestamp": "2024-07-03T10:00:00Z", "type": "automation_launched", "description": "Texas Fitness Supplement Outreach activated", "listName": "Texas Fitness Q3" },
+    { "timestamp": "2024-07-01T10:00:00Z", "type": "list_created", "description": "Texas Fitness Q3 list created", "listName": "Texas Fitness Q3" }
+  ]
+}

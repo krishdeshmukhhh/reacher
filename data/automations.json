@@ -1,0 +1,56 @@
+[
+  {
+    "id": "auto_001",
+    "name": "Texas Fitness Supplement Outreach",
+    "listId": "list_001",
+    "listName": "Texas Fitness Q3",
+    "channel": "Sample Request",
+    "dailyLimit": 5,
+    "objective": "Drive sample requests for new pre-workout formula",
+    "brandName": "PeakFuel Nutrition",
+    "messageTemplate": "Hi {{displayName}}, we've been following your content and love how you break down fitness for your audience. We'd love to send you a free sample of our new pre-workout formula — no strings attached. Would you be open to trying it?",
+    "filters": {
+      "minGmvScore": 75,
+      "emailRequired": false,
+      "niches": ["fitness"]
+    },
+    "status": "active",
+    "createdAt": "2024-07-03T10:00:00Z"
+  },
+  {
+    "id": "auto_002",
+    "name": "Beauty Launch DM Campaign",
+    "listId": "list_002",
+    "listName": "Beauty Top 10",
+    "channel": "DM",
+    "dailyLimit": 3,
+    "objective": "Announce new skincare line and invite to affiliate program",
+    "brandName": "Luminae Skin",
+    "messageTemplate": "Hey {{displayName}}! We just launched our new clean skincare line and your content is exactly the vibe we're going for. Would love to have you as one of our founding partners — affiliate commission + free full routine. Interested?",
+    "filters": {
+      "minGmvScore": 78,
+      "emailRequired": false,
+      "niches": ["beauty"]
+    },
+    "status": "active",
+    "createdAt": "2024-07-06T09:00:00Z"
+  },
+  {
+    "id": "auto_003",
+    "name": "Wellness Email Sequence",
+    "listId": "list_003",
+    "listName": "Wellness Micro Influencers",
+    "channel": "Email",
+    "dailyLimit": 10,
+    "objective": "Introduce adaptogen supplement line to wellness creators",
+    "brandName": "Rooted Wellness Co.",
+    "messageTemplate": "Hi {{displayName}}, I came across your content on TikTok and think there's a genuine fit between what you share and our adaptogen product line. We'd love to send you our starter kit to test — completely complimentary. Let me know if you'd be interested.",
+    "filters": {
+      "minGmvScore": 70,
+      "emailRequired": true,
+      "niches": ["wellness"]
+    },
+    "status": "draft",
+    "createdAt": "2024-07-13T08:00:00Z"
+  }
+]

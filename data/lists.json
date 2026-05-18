@@ -1,0 +1,29 @@
+[
+  {
+    "id": "list_001",
+    "name": "Texas Fitness Q3",
+    "description": "High-GMV fitness creators based in Texas for Q3 supplement campaign",
+    "creatorIds": ["c001", "c002", "c019", "c091"],
+    "createdAt": "2024-07-01T10:00:00Z",
+    "updatedAt": "2024-07-08T14:22:00Z",
+    "tags": ["fitness", "Texas", "Q3"]
+  },
+  {
+    "id": "list_002",
+    "name": "Beauty Top 10",
+    "description": "Top beauty creators by GMV score for new skincare line launch",
+    "creatorIds": ["c003", "c015", "c028", "c031", "c048", "c071", "c078", "c100"],
+    "createdAt": "2024-07-05T09:00:00Z",
+    "updatedAt": "2024-07-10T16:00:00Z",
+    "tags": ["beauty", "skincare", "launch"]
+  },
+  {
+    "id": "list_003",
+    "name": "Wellness Micro Influencers",
+    "description": "Wellness creators under 250k followers with high engagement rates",
+    "creatorIds": ["c007", "c018", "c021", "c034", "c043", "c075", "c089"],
+    "createdAt": "2024-07-12T11:30:00Z",
+    "updatedAt": "2024-07-12T11:30:00Z",
+    "tags": ["wellness", "micro", "engagement"]
+  }
+]
